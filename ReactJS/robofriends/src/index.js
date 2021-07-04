@@ -5,6 +5,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Card from './Card';
 import 'tachyons';
+import {robots} from "./robot";
 
 ReactDOM.render(
 
